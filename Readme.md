@@ -1,8 +1,7 @@
 # Личный проект «Девайс»
 
-* Студент: [Смирнова Софья](https://up.htmlacademy.ru/htmlcss/32/user/1852465).
-* Наставник: `Eric Spichak` . (https://htmlacademy.ru/profile/id801243)
-<!-- privet, u menia claviatura AZERTY, poetomy polovina bukv na russkom otsutstvuet. Ne mogy pechatat vse bukvi; Sorry--!>
+* Студент: [Софья](https://up.htmlacademy.ru/htmlcss/32/user/1852465).
+* Наставник: `Неизвестно`.
 
 ---
 
